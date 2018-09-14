@@ -1,0 +1,1 @@
+1 - Tipo abstrato de Dado
