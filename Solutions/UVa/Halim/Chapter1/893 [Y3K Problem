@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	int n, d, m, a;
+
+	while(cin >> n >> d >> m >> a, n) {
+		
+	}
+}
