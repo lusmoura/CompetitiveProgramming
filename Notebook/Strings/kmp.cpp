@@ -53,6 +53,7 @@ int kmp(){
 	}
 	return ocur;
 }
+
 int main(int argc, const char *argv[]){
 
 	cin.tie(0);
