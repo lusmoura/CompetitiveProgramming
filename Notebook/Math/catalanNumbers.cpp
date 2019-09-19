@@ -1,4 +1,5 @@
-// number of possible binary trees with n keys, numbers of expressions containing n parentheses which are correctly matched...
+// number of possible binary trees with n keys, numbers of expressions containing n parentheses which are correctly matched...	
+// 1/(n+1) * c(2n, n)
 #include <bits/stdc++.h>
 
 using namespace std;
