@@ -1,4 +1,4 @@
-// number of ways to partition a set in k subsets
+// number of permutations on n elements with k cycles
 // p(n, k) = p(n-1, k-1) + (n-1) * p(n-1, k)
 #include <bits/stdc++.h>
 #define MAX 101
